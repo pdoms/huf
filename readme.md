@@ -34,7 +34,7 @@ $ ./build.sh clean
 - [ ] Cli Improvements
 
 
-**Remeber this project is just for fun**
+**Remeber this project is just for fun**<br>
 **Remeber coding should be fun**
 
 
